@@ -1,0 +1,11 @@
+{
+  "name": "com.xiezaikui.base_algorithms",
+  "displayName": "Base Algorithms For Unity",
+  "version": "0.1.0",
+  "description": "base algorithms for unity.",
+  "keywords": [
+    "algorithms"
+  ],
+  "category": "algorithms",
+  "type": "library"
+}
